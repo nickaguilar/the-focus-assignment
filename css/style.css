@@ -2,3 +2,13 @@ html {
    background-image: url('../img/large-banner-image.png');
    background-repeat: no-repeat;
    background-position: center;}
+
+#focusHeader{
+   margin-top: 32px;
+   color: red;
+   text-align: center;
+}
+
+#focuseImage{
+   opacity: 0.5;
+}
