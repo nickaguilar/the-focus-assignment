@@ -8,12 +8,67 @@
 
    <link rel="stylesheet" href="css/reset.css">
    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-   <h1 id="focusHeader"> Focus </h1>
-   <p>A landing page for your app with focus</p>
 
-      <img id = "focuseImage" src="img/focus.png" alt="Focus Picture">
+<style>
+   .column {
+       float: left;
+       width: 75px;
+       padding: 5px;
+   }
+
+   /* Clearfix (clear floats) */
+   .row::after {
+       content: "";
+       clear: both;
+       display: table;
+   }
+
+   #focusHeader{
+      padding-top:20px;
+      font-size: 30px;
+      color: red;
+   }
+
+   #iphoneImg{
+      width:20%;
+      height:20%;
+      margin: 0 auto;
+   }
+
+   #top{
+       margin-top: 32px;
+      margin-left: 650px
+   }
+
+   .center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+   }
+
+</style>
+
+</head>
+
+<body>
+
+   <!--This Div takes care of the the Focus elements-->
+   <div id="top">
+      <div class="row">
+        <div class="column">
+          <img src="img/focus.png" alt="Focus Picture">
+        </div>
+        <div class="column">
+          <h1 id="focusHeader"> Focus </h1>
+        </div>
+      </div>
+   </div>
+
+   <div class="center">
+      <img id = "iphoneImg" src = "img/iphone.png" alt="iphone">
+   </div>
+
+      <p>A landing page for your app with focus</p>
 
       <h2> Great Feature </h2>
       <p>Lorem ipsum dolor sit amet, consecteur adipscing elit. Mauris interdum velit vitae nulla molestie eu.</p>
@@ -33,13 +88,11 @@
       <h2> "Focus is an app that is extremely useful. I would reccomend it to anyone."</h2>
       <p>Kyle Turner, Blogger</p>
 
-<div class="">
-   <img src="img/iphone.jpeg'" alt="">
-</div>
-<footer>
-   <h1> Say Hi & Get in Touch </h1>
-   <p>Lorem ipsum dolor sit amet, consecteur adipsiscing sit suspendisse.</p>
-</footer>
+   <footer>
+      <h1> Say Hi & Get in Touch </h1>
+      <p>Lorem ipsum dolor sit amet, consecteur adipsiscing sit suspendisse.</p>
+   </footer>
 
 </body>
+
 </html>
