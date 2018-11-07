@@ -1,6 +1,28 @@
 html {
    background-image: url('../img/large-banner-image.png');
    background-repeat: no-repeat;
-   background-position: center;
+}
 
+#iphoneImg{
+   width: 464px;
+   height: 800px;
+   position: absolute;
+   bottom: -450px;
+   right: 550px;
+}
+
+
+#arrowimage{
+   width: 50px;
+   height: 15px;
+   position: absolute;
+   bottom: 415px;
+   right: 760px;
+}
+
+#Phrase{
+   font-size: 36px;
+   margin-top: 30px;
+   margin-left: 450px;
+   style="font-family: 'Century Gothic', 'MS Sans Serif', arial; font-size: 16px; text-align:left; line-height:150%; margin:0px; color:#000000; clear:both;">
 }
