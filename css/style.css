@@ -1,6 +1,14 @@
+
 html {
    background-image: url('../img/large-banner-image.png');
    background-repeat: no-repeat;
+}
+div.m{
+   background: #e3e3e3;
+   width: auto;
+   height: 720px;
+   font-size: 16px;
+   font-weight: 400;
 }
 
 #iphoneImg{
@@ -24,4 +32,70 @@ html {
    font-size: 36px;
    margin-top: 30px;
    margin-left: 450px;
+}
+
+.column {
+    float: left;
+    width: 75px;
+    padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+#focusHeader{
+   padding-top:20px;
+   font-size: 60px;
+   bottom: -50px;
+   right: 550px
+}
+
+
+#top{
+   margin-top: 100px;
+   margin-left: 618px;
+}
+
+.center {
+margin-left: auto;
+margin-right: auto;
+width: 60%;
+padding: 10px;
+}
+
+#GreatFeature2{
+   padding-left:1030px;
+
+}
+
+#GreatFeature{
+margin-top: 590px;
+margin-left: 271px;
+width:100px;
+}
+
+#FillerText{
+margin-top: 35px;
+margin-left: 141px;
+width: 370px
+}
+
+div.firstp{
+   margin: 0
+}
+.firstp{
+   margin: 0;
+   width:314px;
+   padding:10px;
+   padding-left:50px;
+}
+
+.secondp{
+   width:314px;
+   padding:0px;
+   float:left;
 }
