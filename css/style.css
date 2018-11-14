@@ -7,8 +7,6 @@ div.m{
    background: #e3e3e3;
    width: auto;
    height: 720px;
-   font-size: 16px;
-   font-weight: 400;
 }
 
 #iphoneImg{
@@ -16,7 +14,7 @@ div.m{
    height: 800px;
    position: absolute;
    bottom: -450px;
-   right: 550px;
+   right: 525px;
 }
 
 
@@ -29,9 +27,8 @@ div.m{
 }
 
 #Phrase{
+   text-align: center;
    font-size: 36px;
-   margin-top: 30px;
-   margin-left: 450px;
 }
 
 .column {
@@ -47,13 +44,13 @@ div.m{
     display: table;
 }
 
-#focusHeader{
-   padding-top:20px;
+h1{
+   position: absolute;
+   text-align: center;
    font-size: 60px;
-   bottom: -50px;
-   right: 550px
+   font-family: 'Pacifico';
+   src: url('../fonts/fonts/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2');
 }
-
 
 #top{
    margin-top: 100px;
@@ -84,18 +81,13 @@ margin-left: 141px;
 width: 370px
 }
 
-div.firstp{
-   margin: 0
-}
 .firstp{
-   margin: 0;
-   width:314px;
-   padding:10px;
-   padding-left:50px;
+   margin-left: 271px;
+   width:240px;
+   font-size: 16px
 }
 
 .secondp{
-   width:314px;
-   padding:0px;
-   float:left;
+   width:240px;
+   margin-left: 1030px;
 }
