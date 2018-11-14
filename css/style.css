@@ -7,6 +7,7 @@ div.m{
    background: #e3e3e3;
    width: auto;
    height: 720px;
+   margin-top: 220px;
 }
 
 #iphoneImg{
@@ -29,12 +30,16 @@ div.m{
 #Phrase{
    text-align: center;
    font-size: 36px;
+   margin-top:50px;
+   font-family: 'Raleway';
+   src: url('../fonts/Raleway Light: fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
 }
 
 .column {
     float: left;
-    width: 75px;
-    padding: 5px;
+    width: 72px;
+   padding-left: 3px;
+    margin-left: 18px;
 }
 
 /* Clearfix (clear floats) */
@@ -65,7 +70,7 @@ padding: 10px;
 }
 
 #GreatFeature2{
-   padding-left:1030px;
+padding-left:1030px;
 
 }
 
@@ -90,4 +95,19 @@ width: 370px
 .secondp{
    width:240px;
    margin-left: 1030px;
+}
+
+#Apple {
+   display: flex;
+   border: 1px solid black;
+   width: 300px;
+   margin-top: 200px;
+   position: absolute;
+}
+
+
+@media (max-width: 768px) {
+   div {justify-content: center;
+      display: flex;
+   }
 }
