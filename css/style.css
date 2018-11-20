@@ -3,12 +3,16 @@ html {
    background-image: url('../img/large-banner-image.png');
    background-repeat: no-repeat;
 }
-div.m{
-   background: #e3e3e3;
+
+.Whitebox1{
+   position: absolute;
+   height: 600px;
    width: auto;
-   height: 720px;
-   margin-top: 220px;
+   top: 500px;
+   background-color: #ffffff
 }
+
+
 
 #iphoneImg{
    width: 464px;
@@ -67,34 +71,6 @@ margin-left: auto;
 margin-right: auto;
 width: 60%;
 padding: 10px;
-}
-
-#GreatFeature2{
-padding-left:1030px;
-
-}
-
-#GreatFeature{
-margin-top: 590px;
-margin-left: 271px;
-width:100px;
-}
-
-#FillerText{
-margin-top: 35px;
-margin-left: 141px;
-width: 370px
-}
-
-.firstp{
-   margin-left: 271px;
-   width:240px;
-   font-size: 16px
-}
-
-.secondp{
-   width:240px;
-   margin-left: 1030px;
 }
 
 #Apple {
