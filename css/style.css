@@ -93,25 +93,30 @@ padding: 10px;
 position: absolute;
 top: 50px;
 left: 230px;
+font-family: 'Raleway';
+src: url('../fonts/fonts/xkvoNo9fC8O2RDydKj12bwzyDMXhdD8sAj6OAJTFsBI.woff2');
+font-size: 22px;
 }
 
 .Whitebox1 h2:nth-child(2){
    position: absolute;
    top: 50px;
    left: 1030px;
-
+   font-size: 22px;
 }
 
 .Whitebox1 h2:nth-child(3){
 position: absolute;
 top: 250px;
 left: 230px;
+font-size: 22px;
 }
 
 .Whitebox1 h2:nth-child(4){
 position: absolute;
 top:250px;
 left:1030px;
+font-size: 22px;
 }
 
 .Whitebox1 p:nth-child(5){
