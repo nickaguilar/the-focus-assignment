@@ -5,37 +5,13 @@ html {
    position: relative;
 }
 
-.Whitebox1{
-   position: absolute;
-   height: 600px;
-   width: 1600px;
-   top: 700px;
-   background-color: white;
-}
-
-.white h2:nth-child(1){
-position: absolute;
-font-size: 22px;
-top: 50px;
-left: 230px;
-}
-
-.white h2:nth-child(2){
-   position: absolute;
-   font-size: 22px;
-   top: 50px;
-
-}
-
-
-
 
 #iphoneImg{
    width: 464px;
    height: 800px;
    position: absolute;
-   bottom: px;
-   right: 525px;
+   bottom: -950px;
+   right: 515px;
 }
 
 
@@ -102,4 +78,66 @@ padding: 10px;
    div {justify-content: center;
       display: flex;
    }
+}
+
+
+.Whitebox1{
+   position: absolute;
+   height: 600px;
+   width: 1600px;
+   top: 700px;
+   background-color: white;
+}
+
+.Whitebox1 h2:nth-child(1){
+position: absolute;
+top: 50px;
+left: 230px;
+}
+
+.Whitebox1 h2:nth-child(2){
+   position: absolute;
+   top: 50px;
+   left: 1030px;
+
+}
+
+.Whitebox1 h2:nth-child(3){
+position: absolute;
+top: 250px;
+left: 230px;
+}
+
+.Whitebox1 h2:nth-child(4){
+position: absolute;
+top:250px;
+left:1030px;
+}
+
+.Whitebox1 p:nth-child(5){
+   position: absolute;
+   top: 85px;
+   left: 230px;
+   width: 350px;
+}
+
+.Whitebox1 p:nth-child(6){
+   position: absolute;
+   top: 85px;
+   left: 1030px;
+   width: 350px;
+}
+
+.Whitebox1 p:nth-child(7){
+   position: absolute;
+   top: 285px;
+   left: 230px;
+   width: 350px;
+}
+
+.Whitebox1 p:nth-child(8){
+   position: absolute;
+   top: 285px;
+   left: 1030px;
+   width: 350px;
 }
