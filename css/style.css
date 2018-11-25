@@ -94,22 +94,31 @@ position: absolute;
 top: 50px;
 left: 230px;
 font-family: 'Raleway';
-src: url('../fonts/fonts/xkvoNo9fC8O2RDydKj12bwzyDMXhdD8sAj6OAJTFsBI.woff2');
 font-size: 22px;
+font-weight: 550;
+src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
 }
 
 .Whitebox1 h2:nth-child(2){
+   font-family: 'Raleway';
+   font-weight: 550;
    position: absolute;
    top: 50px;
    left: 1030px;
    font-size: 22px;
+   src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
+
 }
 
 .Whitebox1 h2:nth-child(3){
-position: absolute;
-top: 250px;
-left: 230px;
-font-size: 22px;
+   font-family: 'Raleway';
+   font-weight: 550;
+   position: absolute;
+   top: 250px;
+   left: 230px;
+   font-size: 22px;
+   src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
+
 }
 
 .Whitebox1 h2:nth-child(4){
@@ -117,6 +126,9 @@ position: absolute;
 top:250px;
 left:1030px;
 font-size: 22px;
+font-family: 'Raleway';
+font-weight: 550;
+src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
 }
 
 .Whitebox1 p:nth-child(5){
