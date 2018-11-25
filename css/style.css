@@ -158,3 +158,11 @@ src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
    left: 1030px;
    width: 350px;
 }
+
+.greybox1{
+   background-color: #e3e3e3;
+   position: absolute;
+   height: 430px;
+   width: 1600px;
+   top: 1300px;
+}
