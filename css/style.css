@@ -176,10 +176,12 @@ src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
    width: 540px;
 }
 
-.Apple {
-   display: flex;
-   width: 300px;
+
+
+   #video{
+   width:500px;
+   height:307px;
    position: absolute;
-   top: 190px;
-   left: 170px;
+   top:60px;
+   left:890px;
 }
