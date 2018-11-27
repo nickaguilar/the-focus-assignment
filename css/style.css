@@ -56,7 +56,6 @@ html {
    top: 325px;
 }
 
-
 #Phrase{
    text-align: center;
    font-size: 36px;
@@ -66,17 +65,17 @@ html {
 }
 
 .column {
-    float: left;
-    width: 72px;
+   float: left;
+   width: 72px;
    padding-left: 3px;
-    margin-left: 18px;
+   margin-left: 18px;
 }
 
 /* Clearfix (clear floats) */
 .row::after {
-    content: "";
-    clear: both;
-    display: table;
+   content: "";
+   clear: both;
+   display: table;
 }
 
 h1{
@@ -93,19 +92,11 @@ h1{
 }
 
 .center {
-margin-left: auto;
-margin-right: auto;
-width: 60%;
-padding: 10px;
+   margin-left: auto;
+   margin-right: auto;
+   width: 60%;
+   padding: 10px;
 }
-
-
-@media (max-width: 768px) {
-   div {justify-content: center;
-      display: flex;
-   }
-}
-
 
 .Whitebox1{
    position: absolute;
@@ -133,7 +124,6 @@ padding: 10px;
    left: 1030px;
    font-size: 22px;
    src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
-
 }
 
 .Whitebox1 h2:nth-child(3){
@@ -144,17 +134,16 @@ padding: 10px;
    left: 230px;
    font-size: 22px;
    src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
-
 }
 
 .Whitebox1 h2:nth-child(4){
-position: absolute;
-top:250px;
-left:1030px;
-font-size: 22px;
-font-family: 'Raleway';
-font-weight: 550;
-src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
+   position: absolute;
+   top:250px;
+   left:1030px;
+   font-size: 22px;
+   font-family: 'Raleway';
+   font-weight: 550;
+   src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
 }
 
 .Whitebox1 p:nth-child(5){
@@ -235,6 +224,7 @@ src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
    top: 190px;
    left: 350px;
 }
+
 #playbar{
    position: absolute;
    top: 300px;
@@ -304,9 +294,9 @@ src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
 }
 
 #twitter{
-position: absolute;
-left: 670px;
-top:155px;
+   position: absolute;
+   left: 670px;
+   top:155px;
 }
 
 #facebook{
@@ -344,7 +334,6 @@ top:155px;
    left: 774px;
    top:178px;
 }
-
 
 .greybox2{
    height: 135px;
@@ -395,7 +384,6 @@ top:155px;
    position: absolute;
    padding-top: 60px;
 }
-
 
 #color{
    position:absolute;
