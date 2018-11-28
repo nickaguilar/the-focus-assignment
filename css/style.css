@@ -140,6 +140,8 @@ h1{
    top: 85px;
    left: 230px;
    width: 350px;
+   line-height: 26px;
+   font-size: 16px;
 }
 
 .Whitebox1 p:nth-child(6){
@@ -147,6 +149,8 @@ h1{
    top: 85px;
    left: 1030px;
    width: 350px;
+   line-height: 26px;
+   font-size: 16px;
 }
 
 .Whitebox1 p:nth-child(7){
@@ -154,6 +158,8 @@ h1{
    top: 285px;
    left: 230px;
    width: 350px;
+   line-height: 26px;
+   font-size: 16px;
 }
 
 .Whitebox1 p:nth-child(8){
@@ -161,6 +167,8 @@ h1{
    top: 285px;
    left: 1030px;
    width: 350px;
+   line-height: 26px;
+   font-size: 16px;
 }
 
 .greybox1{
@@ -184,6 +192,8 @@ h1{
    top: 102px;
    left: 170px;
    width: 540px;
+   line-height: 26px;
+   font-size: 16px;
 }
 
 #video{
@@ -196,19 +206,19 @@ h1{
 
 #apple{
    position: absolute;
-   top: 190px;
+   top: 230px;
    left: 170px;
 }
 
 #android{
    position: absolute;
-   top: 190px;
+   top: 230px;
    left: 260px;
 }
 
 #windows{
    position: absolute;
-   top: 190px;
+   top: 230px;
    left: 350px;
 }
 
@@ -226,9 +236,8 @@ h1{
 
 #cursor2{
    position: absolute;
-   top: 233px;
+   top: 273px;
    left: 385px;
-
 }
 
 .Whitebox2{
