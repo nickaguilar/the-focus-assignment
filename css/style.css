@@ -265,6 +265,21 @@ h1{
    padding-top: 34px;
 }
 
+#kyleturner{
+   position:absolute;
+   left: 722px;
+   top: 118px;
+   font-family: 'Helvetica';
+   font-weight: bold;
+}
+
+#blogger{
+   position:absolute;
+   top: 118px;
+   left: 818px;
+   font-family: 'Helvetica';
+}
+
 #bottomhero{
    width: 1600px;
    height:319px;
