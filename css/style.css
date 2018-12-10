@@ -5,7 +5,6 @@ html {
    position: relative;
 }
 
-
 #iphoneImg{
    width: 464px;
    height: 800px;
@@ -60,6 +59,7 @@ html {
    text-align: center;
    font-size: 36px;
    margin-top:50px;
+   font-family: 'Raleway Light';
 }
 
 .column {
@@ -107,12 +107,12 @@ h1{
    position: absolute;
    top: 50px;
    left: 230px;
-   font-family: 'Raleway';
+   font-family: 'Raleway Semibold';
    font-size: 22px;
 }
 
 .Whitebox1 h2:nth-child(2){
-   font-family: 'Raleway';
+   font-family: 'Raleway Semibold';
    position: absolute;
    top: 50px;
    left: 1030px;
@@ -120,7 +120,7 @@ h1{
 }
 
 .Whitebox1 h2:nth-child(3){
-   font-family: 'Raleway';
+   font-family: 'Raleway Semibold';
    position: absolute;
    top: 250px;
    left: 230px;
@@ -132,7 +132,7 @@ h1{
    top:250px;
    left:1030px;
    font-size: 22px;
-   font-family: 'Raleway';
+   font-family: 'Raleway Semibold';
 }
 
 .Whitebox1 p:nth-child(5){
@@ -142,6 +142,7 @@ h1{
    width: 350px;
    line-height: 26px;
    font-size: 16px;
+   font-family: 'Helvetica';
 }
 
 .Whitebox1 p:nth-child(6){
@@ -151,6 +152,7 @@ h1{
    width: 350px;
    line-height: 26px;
    font-size: 16px;
+   font-family: 'Helvetica';
 }
 
 .Whitebox1 p:nth-child(7){
@@ -160,6 +162,7 @@ h1{
    width: 350px;
    line-height: 26px;
    font-size: 16px;
+   font-family: 'Helvetica';
 }
 
 .Whitebox1 p:nth-child(8){
@@ -169,6 +172,7 @@ h1{
    width: 350px;
    line-height: 26px;
    font-size: 16px;
+   font-family: 'Helvetica';
 }
 
 .greybox1{
@@ -183,7 +187,7 @@ h1{
    position: absolute;
    top: 62px;
    left:170px;
-   font-family: 'Raleway';
+   font-family: 'Raleway Semibold';
    font-size: 22px;
 }
 
@@ -194,6 +198,7 @@ h1{
    width: 540px;
    line-height: 26px;
    font-size: 16px;
+   font-family: 'Helvetica';
 }
 
 #video{
@@ -277,14 +282,14 @@ h1{
 
 .Whitebox3 h2:nth-child(1){
    font-size: 24px;
-   font-family: 'Raleway';
+   font-family: 'Raleway Semibold';
    text-align: center;
    padding-top: 60px;
    font-weight: 600;
 }
 
 .Whitebox3 p:nth-child(2){
-   font-family: 'Helvetica Neue';
+   font-family: 'Helvetica';
    text-align: center;
    padding-top: 25px;
 }
