@@ -10,7 +10,7 @@ html {
    height: 800px;
    position: absolute;
    bottom: -950px;
-   right: 515px;
+   right: 511px;
 }
 
 #whitedot1{
@@ -349,6 +349,7 @@ h1{
    padding-left: 530px;
    padding-top: 60px;
    position: absolute;
+   font-family: 'Helvetica';
 }
 
 .greybox2 p:nth-child(2){
